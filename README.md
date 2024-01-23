@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este projeto simula um caixa eletrônico, permitindo que os usuários realizem saques virtuais. Ele utiliza Vue 3 no frontend e Node.js com Express e MongoDB no backend. Os usuários podem inserir o valor do saque e receber uma representação visual das notas dispensadas.
+Este projeto simula um caixa eletrônico, permitindo que os usuários realizem saques virtuais. Ele utiliza Vue 2 no frontend e Node.js com Express e MongoDB no backend. Os usuários podem inserir o valor do saque e receber uma representação visual das notas dispensadas.
 
 ## Características
 
