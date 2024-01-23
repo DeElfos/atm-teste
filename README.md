@@ -10,7 +10,7 @@ Este projeto simula um caixa eletrônico, permitindo que os usuários realizem s
 
 - Saque de dinheiro virtual com representação visual das notas.
 - Sistema de conta com saldo, identificado por e-mail.
-- Frontend construído com Vue 3 e Bootstrap para uma interface responsiva.
+- Frontend construído com Vue 2 e Bootstrap para uma interface responsiva.
 - Backend em Node.js com Express, integrado ao MongoDB para gerenciamento de dados.
 
 ## Instruções de Instalação
